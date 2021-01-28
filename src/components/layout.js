@@ -43,7 +43,7 @@ const Layout = (props) => {
             />
             <Helmet>
                 <title>Hotel Gatsby</title>
-                <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+                <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" />
                 <link rel="preconnect" href="https://fonts.gstatic.com"/>
                 <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700" rel="stylesheet"/>
                 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700" rel="stylesheet"/>
